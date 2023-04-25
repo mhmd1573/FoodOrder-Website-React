@@ -1,0 +1,55 @@
+.card-body{
+   text-align: center;
+}
+
+.card{
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+    width: 290px;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.cart-btn{
+    background: #A82C48;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
+
+.card-body p{
+   padding: 0;
+   font-weight: bold;
+}
+
+.card-text2{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #A82C48;
+} 
+
+.card-text2 span{
+    text-decoration: line-through;
+    color: #706c6c;
+    font-size: 1.2rem;
+}
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  

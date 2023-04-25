@@ -1,0 +1,22 @@
+.explore-container{
+    margin-top: 70px;
+    text-align: center;
+}
+
+.explore-container h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #A82C48;
+    padding: 10px 0;
+}
+
+.explore-container p{
+    opacity: 0.7;
+    padding: 10px 0;
+    max-width: 800px;
+    
+}
+
+.explore-content{
+   padding: 0 130px;
+}

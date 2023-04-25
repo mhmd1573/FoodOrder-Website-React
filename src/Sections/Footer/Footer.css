@@ -1,0 +1,28 @@
+.footer-container{
+    margin-top: 100px;
+    height: 300px;
+    background-color: #A82D49;
+    color: #fff;
+    padding:  70px 0 ;
+    text-align: center;
+    /* margin-top: 30px; */
+    width: 100%;
+}
+
+.footer-logo{
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-right: 20px;
+    color: #fff;
+}
+
+.footer-icon{
+    font-size: 25px;
+    padding: 0 10px;
+    color: #fff;
+}
+
+.footer-row{
+    margin : 20px 0;
+}

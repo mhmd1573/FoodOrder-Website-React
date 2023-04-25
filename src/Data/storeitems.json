@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Rice Hindi",
+      "serve": 10.50,
+      "image": "https://images.pexels.com/photos/7592749/pexels-photo-7592749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Cesar Salad",
+      "serve": 10.50,
+      "image": "https://images.pexels.com/photos/884600/pexels-photo-884600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Steak Plate",
+      "serve": 10.50,
+      "image": "https://images.pexels.com/photos/1247677/pexels-photo-1247677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Vegetbale Soup",
+      "serve": 10.50,
+      "image": "https://images.pexels.com/photos/1406501/pexels-photo-1406501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Vegetbale Steak",
+      "serve": 10.50,
+      "image": "https://images.pexels.com/photos/551997/pexels-photo-551997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "title": "Italiano",
+      "serve": 10.50,
+      "image": "https://images.pexels.com/photos/61180/pexels-photo-61180.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+  

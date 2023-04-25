@@ -1,0 +1,39 @@
+.my-navbar .navbar-collapse {
+    justify-content: flex-end;
+  }
+  
+  .my-navbar .navbar-nav {
+    margin-left: auto;
+  }
+
+  .my-navbar a{
+   color: #A82C48;
+   font-size: 18px;
+   font-weight: bold;
+  }
+
+  .my-navbar {
+    background-color: transparent !important;
+    padding: 0 20px;
+  }
+
+
+
+  .last-link{
+    border: 1px solid #A82C48;
+    background-color: #A82C48;
+    color: #fff !important;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 10px;
+  }
+
+    .last-link:hover{
+        background-color: #fff;
+        color: #A82C48 !important;
+    }
+
+
+  
+  

@@ -1,0 +1,50 @@
+.secound-banner{
+    height: 400px;
+    background-image: url(../../assets/images/banner2.jpg);
+    background-size: cover;
+    background-position-y: bottom;
+   
+}
+
+.banner-container{
+    width: 60% !important;
+    max-width: 800px;
+    text-align: center !important;
+    /* padding-top:  100px; */
+    padding: 100px 30px;
+    margin: 0 auto;
+}
+
+.banner-container p{
+    padding: 20px 0;
+    font-weight: bolder;
+}
+
+.banner-container h2{
+    font-weight: bold ;
+    color: #A82C48;
+}
+
+
+@media screen and (max-width: 767px) {
+    .banner-container {
+      width: 90%;
+      max-width: 500px;
+      padding: 80px 20px;
+    }
+  }
+
+  @media screen and (max-width: 676px) {
+    .banner-container {
+      width: 100%;
+      max-width: 100%;
+      padding: 80px 10px;
+    }
+  }
+
+  @media screen and (max-width: 540px) {
+    .banner-container {
+      padding: 30px 10px;
+    }
+  }
+  

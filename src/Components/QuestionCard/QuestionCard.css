@@ -1,0 +1,21 @@
+.cardquestion{
+    width: 550px;
+    height: 180px;
+    
+}
+
+.card-title-question{
+    font-weight: bold;
+    padding-top: 10px;
+    color: #A82D49;
+}
+
+.question-body{
+    text-align: start;
+    
+}
+
+.question-text{
+    color: black;
+    opacity: 0.8;
+}

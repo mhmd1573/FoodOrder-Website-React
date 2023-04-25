@@ -1,0 +1,42 @@
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.child1 ,.child2{
+    width: 600px;
+    height: 500px;
+}
+
+.child1{
+    background-image: url(../../assets/images/about.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.child2{
+    
+    text-align: initial;
+    /* padding: 100px 20px; */
+}
+
+.child2 p{
+opacity: 0.7;
+padding: 10px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .child2 {
+      text-align: initial;
+        padding: 100px 20px;
+    }
+
+   
+
+  }

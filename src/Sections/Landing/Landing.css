@@ -1,0 +1,42 @@
+header{
+    background-image: url(../../assets/images/heading.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    text-align: left;
+   overflow: hidden;
+   margin-top: 50px !important;
+}
+
+header h2{
+    color: #43121D;
+    font-size: 50px;
+    font-weight: bold;
+    width: 80%;
+    line-height: 60px;
+    font-family: Tajawal, sans-serif;
+}
+
+header p{
+    color: #333;
+    font-size: 20px;
+    margin: 15px 0;
+}
+    .cl1{
+        margin-top: 70px;
+    }
+.btn1{
+    margin-left: 10px;
+    box-shadow:     0 0 0 0.08rem rgba(0,0,0,0.20) !important;
+    background-color: #fff !important;
+    color: black !important;
+}
+
+.btn1:hover{
+    background-color: #A82C48 !important;
+    color: #fff !important;
+    transition: 0.5s; 
+
+}
